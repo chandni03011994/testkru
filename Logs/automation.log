@@ -1,0 +1,38 @@
+2023-06-23 14:24:16,713 - WDM - INFO - ====== WebDriver manager ======
+2023-06-23 14:24:17,569 - WDM - INFO - Get LATEST chromedriver version for google-chrome 114.0.5735
+2023-06-23 14:24:18,697 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2023-06-23 14:24:20,858 - WDM - INFO - Driver has been saved in cache [C:\Users\CHANDNI\.wdm\drivers\chromedriver\win32\114.0.5735]
+2023-06-23 14:26:41,707 - WDM - INFO - ====== WebDriver manager ======
+2023-06-23 14:26:42,559 - WDM - INFO - Get LATEST chromedriver version for google-chrome 114.0.5735
+2023-06-23 14:26:43,669 - WDM - INFO - Driver [C:\Users\CHANDNI\.wdm\drivers\chromedriver\win32\114.0.5735\chromedriver.exe] found in cache
+2023-06-23 14:26:53,566 - root - INFO - *********** Starting test case PG-001 **********
+2023-07-10 21:21:33,777 - WDM - INFO - ====== WebDriver manager ======
+2023-07-10 21:21:34,731 - WDM - INFO - Get LATEST chromedriver version for google-chrome 114.0.5735
+2023-07-10 21:21:35,809 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2023-07-10 21:21:37,512 - WDM - INFO - Driver has been saved in cache [C:\Users\CHANDNI\.wdm\drivers\chromedriver\win32\114.0.5735]
+2023-07-10 21:21:46,977 - root - INFO - *********** Starting test case PG-001 **********
+2023-07-10 21:25:13,543 - WDM - INFO - ====== WebDriver manager ======
+2023-07-10 21:25:14,374 - WDM - INFO - Get LATEST chromedriver version for google-chrome 114.0.5735
+2023-07-10 21:25:15,374 - WDM - INFO - Driver [C:\Users\CHANDNI\.wdm\drivers\chromedriver\win32\114.0.5735\chromedriver.exe] found in cache
+2023-07-10 21:25:25,407 - root - INFO - *********** Starting test case PG-001 **********
+2023-07-14 20:59:10,216 - WDM - INFO - ====== WebDriver manager ======
+2023-07-14 20:59:11,256 - WDM - INFO - Get LATEST chromedriver version for google-chrome 114.0.5735
+2023-07-14 20:59:15,745 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2023-07-14 20:59:17,491 - WDM - INFO - Driver has been saved in cache [C:\Users\CHANDNI\.wdm\drivers\chromedriver\win32\114.0.5735]
+2023-07-14 20:59:29,116 - root - INFO - *********** Starting test case PG-001 **********
+2023-07-14 21:06:30,259 - WDM - INFO - ====== WebDriver manager ======
+2023-07-14 21:06:31,139 - WDM - INFO - Get LATEST chromedriver version for google-chrome 114.0.5735
+2023-07-14 21:06:32,164 - WDM - INFO - Driver [C:\Users\CHANDNI\.wdm\drivers\chromedriver\win32\114.0.5735\chromedriver.exe] found in cache
+2023-07-14 21:06:41,601 - root - INFO - *********** Starting test case PG-001 **********
+2023-07-14 21:22:06,595 - WDM - INFO - ====== WebDriver manager ======
+2023-07-14 21:22:07,499 - WDM - INFO - Get LATEST chromedriver version for google-chrome 114.0.5735
+2023-07-14 21:22:08,739 - WDM - INFO - Driver [C:\Users\CHANDNI\.wdm\drivers\chromedriver\win32\114.0.5735\chromedriver.exe] found in cache
+2023-07-14 21:22:18,330 - root - INFO - *********** Starting test case PG-001 **********
+2023-07-14 21:48:27,472 - WDM - INFO - ====== WebDriver manager ======
+2023-07-14 21:48:28,627 - WDM - INFO - Get LATEST chromedriver version for google-chrome 114.0.5735
+2023-07-14 21:48:29,682 - WDM - INFO - Driver [C:\Users\CHANDNI\.wdm\drivers\chromedriver\win32\114.0.5735\chromedriver.exe] found in cache
+2023-07-14 21:48:39,861 - root - INFO - *********** Starting test case PG-001 **********
+2023-07-14 22:05:12,710 - WDM - INFO - ====== WebDriver manager ======
+2023-07-14 22:05:13,581 - WDM - INFO - Get LATEST chromedriver version for google-chrome 114.0.5735
+2023-07-14 22:05:14,670 - WDM - INFO - Driver [C:\Users\CHANDNI\.wdm\drivers\chromedriver\win32\114.0.5735\chromedriver.exe] found in cache
+2023-07-14 22:05:24,365 - root - INFO - *********** Starting test case PG-001 **********
